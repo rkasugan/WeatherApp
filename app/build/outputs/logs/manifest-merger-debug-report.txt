@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7281cde2752b35e157670ed69f78e5ad\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eb542508e7746ff0bc58b4d281d598e0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\1ddeecdd9212639763ca319ae3fa9590\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\a015b45c0f35dd370630912f0622b61a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\00b35c516e29e7220f255e9430261a27\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\feed6c93589eebd270525094dc41d3ca\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\6a2ea524bce32d0f19166d960858c4fc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\7f0ddbe083af3814d9d20730d770151a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\ef8c7e96aaef3322a442f6874fdd1e0d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\af70b0e2f2207314a9834ea0ec690526\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7281cde2752b35e157670ed69f78e5ad\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7281cde2752b35e157670ed69f78e5ad\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eb542508e7746ff0bc58b4d281d598e0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eb542508e7746ff0bc58b4d281d598e0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\1ddeecdd9212639763ca319ae3fa9590\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\1ddeecdd9212639763ca319ae3fa9590\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\a015b45c0f35dd370630912f0622b61a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\a015b45c0f35dd370630912f0622b61a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\00b35c516e29e7220f255e9430261a27\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\00b35c516e29e7220f255e9430261a27\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\feed6c93589eebd270525094dc41d3ca\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\feed6c93589eebd270525094dc41d3ca\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\6a2ea524bce32d0f19166d960858c4fc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\6a2ea524bce32d0f19166d960858c4fc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\7f0ddbe083af3814d9d20730d770151a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\7f0ddbe083af3814d9d20730d770151a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\ef8c7e96aaef3322a442f6874fdd1e0d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\ef8c7e96aaef3322a442f6874fdd1e0d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\af70b0e2f2207314a9834ea0ec690526\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\af70b0e2f2207314a9834ea0ec690526\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.a10010246.weatherapp.MainActivity
+ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7281cde2752b35e157670ed69f78e5ad\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7281cde2752b35e157670ed69f78e5ad\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eb542508e7746ff0bc58b4d281d598e0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eb542508e7746ff0bc58b4d281d598e0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\1ddeecdd9212639763ca319ae3fa9590\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\1ddeecdd9212639763ca319ae3fa9590\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\a015b45c0f35dd370630912f0622b61a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\a015b45c0f35dd370630912f0622b61a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\00b35c516e29e7220f255e9430261a27\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\00b35c516e29e7220f255e9430261a27\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\feed6c93589eebd270525094dc41d3ca\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\feed6c93589eebd270525094dc41d3ca\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\6a2ea524bce32d0f19166d960858c4fc\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\6a2ea524bce32d0f19166d960858c4fc\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\7f0ddbe083af3814d9d20730d770151a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\7f0ddbe083af3814d9d20730d770151a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\ef8c7e96aaef3322a442f6874fdd1e0d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\ef8c7e96aaef3322a442f6874fdd1e0d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\af70b0e2f2207314a9834ea0ec690526\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\af70b0e2f2207314a9834ea0ec690526\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7281cde2752b35e157670ed69f78e5ad\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\WeatherApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7281cde2752b35e157670ed69f78e5ad\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\1ddeecdd9212639763ca319ae3fa9590\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\1ddeecdd9212639763ca319ae3fa9590\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\a015b45c0f35dd370630912f0622b61a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\a015b45c0f35dd370630912f0622b61a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\00b35c516e29e7220f255e9430261a27\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\00b35c516e29e7220f255e9430261a27\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\feed6c93589eebd270525094dc41d3ca\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\feed6c93589eebd270525094dc41d3ca\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\6a2ea524bce32d0f19166d960858c4fc\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\6a2ea524bce32d0f19166d960858c4fc\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\7f0ddbe083af3814d9d20730d770151a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\7f0ddbe083af3814d9d20730d770151a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\ef8c7e96aaef3322a442f6874fdd1e0d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\ef8c7e96aaef3322a442f6874fdd1e0d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\af70b0e2f2207314a9834ea0ec690526\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\af70b0e2f2207314a9834ea0ec690526\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7281cde2752b35e157670ed69f78e5ad\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rohan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7281cde2752b35e157670ed69f78e5ad\AndroidManifest.xml:26:9-47

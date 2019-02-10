@@ -1,0 +1,4 @@
+#Mon Dec 18 08:21:53 EST 2017
+base.0=C\:\\Users\\10010246\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=C\:\\Users\\10010246\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex
